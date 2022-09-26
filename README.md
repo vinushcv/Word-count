@@ -27,6 +27,9 @@ Print the output.
 
 ## PROGRAM:
 ```python
+#program to find the number of words
+#developed by:vinushcv
+#register number:22001897
 with open("ok.txt","r") as f:
     a=0
     for i in f:
