@@ -37,8 +37,7 @@ with open("ok.txt","r") as f:
         a+=len(b)
     print("number of words :",a)
 ```
-
-### OUTPUT:
+## OUTPUT:
 ![output](outdone.png)
 ![output](outrun.png)
 
